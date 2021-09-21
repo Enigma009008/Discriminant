@@ -1,0 +1,7 @@
+D:\Dem.ekzamen\Discriminant\Discriminant\bin\Debug\Discriminant.exe.config
+D:\Dem.ekzamen\Discriminant\Discriminant\bin\Debug\Discriminant.exe
+D:\Dem.ekzamen\Discriminant\Discriminant\bin\Debug\Discriminant.pdb
+D:\Dem.ekzamen\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.AssemblyReference.cache
+D:\Dem.ekzamen\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.CoreCompileInputs.cache
+D:\Dem.ekzamen\Discriminant\Discriminant\obj\Debug\Discriminant.exe
+D:\Dem.ekzamen\Discriminant\Discriminant\obj\Debug\Discriminant.pdb
